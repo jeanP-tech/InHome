@@ -1,0 +1,36 @@
+body {
+  font-family: 'Noto Serif KR';
+}
+
+#logo a {
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  height: 90px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 70px;
+}
+
+header h1{
+  font-size: 50px;
+  margin-left: 40px;
+  display: inline;
+}
+
+header ul {
+  list-style: none;
+  margin-left: auto;
+}
+
+header ul a {
+  text-decoration: none;
+  color: #9B9B9B;
+}
+
+header ul li {
+  float: left;
+  margin-right: 20px;
+}
